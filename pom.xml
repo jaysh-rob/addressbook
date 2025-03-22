@@ -494,13 +494,9 @@
 
 	 <distributionManagement>
         <repository>
-            <id>maven-releases</id>
+            <id>addressbook-proxy</id>
             <url>http://192.168.0.118:8081/repository/addressbook-proxy/</url>
         </repository>
-        <snapshotRepository>
-            <id>maven-snapshots</id>
-            <url>http://192.168.0.118:8081/repository/maven-snapshots/</url>
-        </snapshotRepository>
     </distributionManagement>
 
 </project>
